@@ -17,7 +17,7 @@ const (
 
 	// Operators
 	ASSIGN = "="
-	PLIS   = "+"
+	PLUS   = "+"
 
 	COMMA     = ","
 	SEMICOLON = ";"
